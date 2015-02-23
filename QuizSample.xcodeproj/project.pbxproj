@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3E121E261A7272C9002AB989 /* daru.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3E121E251A7272C9002AB989 /* daru.jpeg */; };
-		3E88FD741A8E0E0E0036873E /* home.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3E88FD731A8E0E0E0036873E /* home.jpeg */; };
+		3E813A191A9765040008C0BF /* home2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3E813A181A9765040008C0BF /* home2.jpeg */; };
 		3EA468CE1A84EF710089DF71 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 3EA468BA1A84EF710089DF71 /* Contents.json */; };
 		3EA468CF1A84EF710089DF71 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EA468BB1A84EF710089DF71 /* Icon-40.png */; };
 		3EA468D01A84EF710089DF71 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EA468BC1A84EF710089DF71 /* Icon-40@2x.png */; };
@@ -84,7 +84,7 @@
 
 /* Begin PBXFileReference section */
 		3E121E251A7272C9002AB989 /* daru.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daru.jpeg; sourceTree = "<group>"; };
-		3E88FD731A8E0E0E0036873E /* home.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = home.jpeg; sourceTree = "<group>"; };
+		3E813A181A9765040008C0BF /* home2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = home2.jpeg; sourceTree = "<group>"; };
 		3EA468BA1A84EF710089DF71 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
 		3EA468BB1A84EF710089DF71 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
 		3EA468BC1A84EF710089DF71 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
@@ -212,9 +212,9 @@
 				3EA468C01A84EF710089DF71 /* Icon-76.png */,
 				3EA468C11A84EF710089DF71 /* Icon-76@2x.png */,
 				3EA468C21A84EF710089DF71 /* Icon-Small.png */,
+				3E813A181A9765040008C0BF /* home2.jpeg */,
 				3EA468C31A84EF710089DF71 /* Icon-Small@2x.png */,
 				3EA468C41A84EF710089DF71 /* Icon-Small@3x.png */,
-				3E88FD731A8E0E0E0036873E /* home.jpeg */,
 			);
 			path = AppIcon.appiconset;
 			sourceTree = "<group>";
@@ -436,7 +436,6 @@
 				3EE721C41A70F63E00505351 /* ohtani.jpg in Resources */,
 				3EA468DF1A84EF710089DF71 /* Icon@2x.png in Resources */,
 				3EA468D31A84EF710089DF71 /* Icon-60@3x.png in Resources */,
-				3E88FD741A8E0E0E0036873E /* home.jpeg in Resources */,
 				3EB562661A7B9DD100313BA6 /* home2.png in Resources */,
 				3EFBB0141A84D1B60046CABF /* c-logo.png in Resources */,
 				AF2C85571A04D3580022A007 /* chabatake@2x.png in Resources */,
@@ -447,6 +446,7 @@
 				AF2C855A1A04D3580022A007 /* tanbo@2x.png in Resources */,
 				3EE721C61A70F64900505351 /* takuro.jpg in Resources */,
 				3EA468D41A84EF710089DF71 /* Icon-76.png in Resources */,
+				3E813A191A9765040008C0BF /* home2.jpeg in Resources */,
 				3EA468DC1A84EF710089DF71 /* Icon-Small-50.png in Resources */,
 				3EA468E81A84F2B50089DF71 /* Default-736h@3x.png in Resources */,
 				AFE8B8601A04F9600055414A /* incorrect.wav in Resources */,

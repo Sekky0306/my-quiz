@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [bgImageView setBackgroundColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"home.jpeg"]]];
+   // [bgImageView setBackgroundColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"home2.jpeg"]]];
 }
 
 - (void)didReceiveMemoryWarning {
