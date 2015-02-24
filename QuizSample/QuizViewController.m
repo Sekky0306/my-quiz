@@ -173,6 +173,11 @@
     
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"c-logo.png"], @"２８番", @"新井", @"栗原", @"堂林", nil]];
     
+    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"sh-logo.png"], @"１番", @"王", @"柳田", @"内川", nil]];
+    
+
+    
+    
       
     
         
