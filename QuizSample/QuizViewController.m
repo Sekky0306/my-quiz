@@ -174,6 +174,17 @@
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"c-logo.png"], @"２８番", @"新井", @"栗原", @"堂林", nil]];
     
     [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"sh-logo.png"], @"１番", @"王", @"柳田", @"内川", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"sh-logo.png"], @"81番", @"秋山", @"工藤", @"藤井", nil]];
+    
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"sh-logo.png"], @"24番", @"長谷川", @"内川", @"吉村", nil]];
+    
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"sh-logo.png"], @"7番", @"中村", @"吉村", @"江川", nil]];
+    
+    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"sh-logo.png"], @"１8番", @"杉内", @"松坂", @"工藤", nil]];
+    
+    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"sh-logo.png"], @"21番", @"細川", @"鶴岡", @"栗原", nil]];
+    
+
     
 
     
